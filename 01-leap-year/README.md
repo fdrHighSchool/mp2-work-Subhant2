@@ -9,29 +9,29 @@
       } // end inner if statement
    } // end outer if statement
   ```
-  * **YOUR WRITING HERE**
+  * **If year is divided by 4 and not divided by hundred its not true.**
 
 
 2. Label each as either correct or incorrect syntax. If incorrect, rewrite below:
   * if (x == y) {
 
-    * **YOUR WRITING HERE**
+    * **True**
 
   * if [x == 10] {
 
-    * **YOUR WRITING HERE**
+    * **True**
 
   * if x = 10 then {
 
-    * **YOUR WRITING HERE**
+    * **true**
 
   * if (x equals 42) {
 
-    * **YOUR WRITING HERE**
+    * **False**
 
   * if (x => y) {
 
-    * **YOUR WRITING HERE**
+    * **False**
 
 
 3. Fix the error in the code below:
@@ -45,4 +45,4 @@
   }
   ```
 
-  * **YOUR WRITING HERE**
+  * **There is no else**
