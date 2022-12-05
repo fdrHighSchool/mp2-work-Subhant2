@@ -32,21 +32,31 @@ public static void main(String[] args) {
 
 
 
-//code 3
+// code 3
 public class Main {
   public static void main(String[] args) {
     System.out.println("");
     System.out.println("Hello");
+    System.out.println(repeatEnd("Hello", 3));
   }
-    public static String repeatEnd(String str, int n) {
-int len = str.length();
-String newWord = "";
-for (int i = 0; i < n; i++) {
-newWord += str.substring(len - n, len);
-}
-return newWord;
+
+  public static String repeatEnd(String str, int n) {
+
+    int len = str.length();
+
+    String newWord = "";
+
+    for (int i = 0; i < n; i++) {
+
+      newWord += str.substring(len - n, len);
+
     }
+
+    return newWord;
+
+  }
 }
+
 
 
 
@@ -56,9 +66,9 @@ return newWord;
 public class Main{
   public static void main(String[] args) {
     System.out.println("");
-    System.out.println("Hello Hi Yo");
+    System.out.println("Hello hi yo hi hi. How many hi are in this sentence -  ");
+    System.out.println(countHi("Hello hi yo hi hi"));
 }
-
 public static int countHi(String str) {
     int pos = -1, count = -1;
 
