@@ -3,16 +3,16 @@
 
 1. *In your own words*, discuss what each String method does:
   * `.substring(a)`
-    * **YOUR WRITING HERE**
+    * **It only focus on one string**
 
   * `.substring(a, b)`
-    * **YOUR WRITING HERE**
+    * **It focus on both strings a and b**
 
   * `.indexOf(str)`
-    * **YOUR WRITING HERE**
+    * **returns the position of the first occurrence of specified character(s) in a string**
 
   * `.equals(str)`
-    * **YOUR WRITING HERE**
+    * **Determines whether two specified String objects have the same value**
 
 
 2. *In your own words*, discuss what the following `for` loop accomplishes for `String s`:
