@@ -7,7 +7,8 @@
 000111222333444555666777888999
 000111222333444555666777888999
 ```
-  * **YOUR WRITING HERE**
+  * ** Print 0 3 times the add 1 and repeat 3 times and and 1 to that repast that until 9 (in row)
+  * do this 3 times (loop)**
 
 
 2. Write a plan for the following output:
@@ -18,4 +19,5 @@
 999998888877777666665555544444333332222211111
 999998888877777666665555544444333332222211111
 ```
-  * **YOUR WRITING HERE**
+  * **Print 0 3 times the minus 1 and repeat 3 times and minus 1 to that repeat that until 9 (in row)
+  * do this 3 times (loop)**
